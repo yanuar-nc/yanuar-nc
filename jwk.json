@@ -23,6 +23,12 @@
       "n": "yT2Gh-BNRfomMLyjwoGMv16GO4hrJ12vEiLrRmXpWWni0C3dtVWoFORr5MQfbe4V6WADRWeNLJmS_JMnSrYDUfxpIrAvd-iKKquteUahE_U4VfaNmmACujQTdr7q0nWRSGxE53b5KKOabrYl-OwXNAHpC94Rwj05yD0PpqwzDFlAgZxw8wUDIE4x20ChkxKzcZo6UrxmhVsFxcjYbOoo-9wbdnZgk5rLLIWQtCnWDcOpPX0xiBFZuFMo4G7rJJmCgThG_TkhnnJ6WQaO4SD_LaPuanxrk6TIieilD6YVMkeVH_Sz79jiCHb5K61z9lh7Q6NhhzlOuv5g_xuwXH0O8Q"
     },
     {
+      "e": "AQAB",
+      "kid": "medusa001",
+      "kty": "RSA",
+      "n": "qfpjPgLHr4huUYJ3CkTWRpD4LSVm7phcHHN9P5miYRLQfkSgdzgkgG3mglmOBOPTIT4sYjY-4_CPTz71QGrFCMoQxzhC-PAIJHIMoFFISVYbWhiWPAqhZtjHoTppUE0JL5APVqsUKvl6foBq8mUdovD3ndAT26E2IYnW5uhei2dnJEtdtZtArslbgJGae4IGZOc1SljuuV7apxMdjz6kZ89c_tYv60B_22TKW7snjV7rZ_UIg9ua5K4LMna8VDjmZ16ZdBg8hE239M9uotjd8ty0u5pvX4mBtV_Wt8IxVOJEExZNUZjYaH_irqe_EI28agZOxK9pscnX3AJowN_emrqo_ZIfZgzDPLHHu3U63fZtL4A8WujPyemWe5qFXR2npJwpU6j7OIeYJYUKiAIYDgoujd-g2E9NQvbRp6HCPa1JtFVuRL9bnXPeKpfPjHVkAAIZ188vJ6MZdsUkYTns8Gew_fN4dwgNUCmDxjoh64jBooNn1BAifQA62bLG9Ey9"
+    },
+    {
       "alg": "RS256",
       "kid": "5962e7a059c7f5c0c0d56cbad51fe64ceeca67c6",
       "use": "sig",
